@@ -1,7 +1,8 @@
-streamlit==1.35.0
-langchain==0.2.11
-langchain-community==0.2.10
-langchain-groq==0.1.5
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-classic
 wikipedia
 numexpr
-pydantic
